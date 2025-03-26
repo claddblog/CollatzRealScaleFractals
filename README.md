@@ -1,7 +1,6 @@
 # CollatzRealScaleFractals
-Scaling Fractals in the Domain of Reals
+Scaling Fractals in the Domain of Reals:
 
-Scaling Fractals in the Domain of Reals
 A study exploring self-similar, scaling fractal behavior in real-number systems derived from the Collatz function.
 This repository will ultimately include:
   - The original data analysis code (Python, NumPy, mpmath)
